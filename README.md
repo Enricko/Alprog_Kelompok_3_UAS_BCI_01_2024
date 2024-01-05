@@ -2,7 +2,7 @@
 # Hotel Services Booking System with C++
 
 Our final project in 
-Algorithms and Programming
+Algorithms and Programming (Amikom University)
 
 
 ## Our Team
